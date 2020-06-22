@@ -1,4 +1,6 @@
-# New Project
+# react-csz
+
+Snowpack React app with [csz](https://github.com/lukejacksonn/csz) for styling.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
